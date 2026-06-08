@@ -5,7 +5,7 @@ Admin panel for managing the Venovet website. This panel provides administrative
 
 ## Features
 - User management
-- Content editing
+- Content editing and publishing
 
 
 ## Technologies Used
