@@ -11,3 +11,4 @@ Admin panel for managing the Venovet website. This panel provides administrative
 ## Technologies Used
 - React
 - Firebase
+<!-- Updated by child session 2 -->
