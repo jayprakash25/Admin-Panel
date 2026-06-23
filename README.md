@@ -9,7 +9,7 @@ Admin panel for managing the Venovet website. This panel provides administrative
 - User management
 - Content editing
 - Role-based access control
-- Real-time data updates via Firebase
+- Real-time data synchronization powered by Firebase
 
 ## Getting Started
 
