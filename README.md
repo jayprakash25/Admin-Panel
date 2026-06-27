@@ -7,6 +7,7 @@ It is intended to help administrators keep site content organized from a central
 ## Features
 - User management
 - Content editing
+- Admin dashboard tools
 
 
 ## Technologies Used
